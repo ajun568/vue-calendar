@@ -1,4 +1,5 @@
-# calendar
+# vue-calendar
+手摸手教你用VUE封装日历组件
 
 ## Project setup
 ```
@@ -21,4 +22,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/)
