@@ -1,5 +1,4 @@
 # vue-calendar
-手摸手教你用VUE封装日历组件
 
 ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e2acb32cd05840a995affd30a263043b~tplv-k3u1fbpfcp-watermark.image)
 
